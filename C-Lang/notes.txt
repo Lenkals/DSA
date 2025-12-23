@@ -1,0 +1,7 @@
+Linkedlst:
+
+1.Travere
+2.delete
+3.Insert
+4.Reverse Linkedlist
+5.Find mid in Linkedlist
