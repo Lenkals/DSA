@@ -5,3 +5,5 @@ Linkedlst:
 3.Insert
 4.Reverse Linkedlist
 5.Find mid in Linkedlist
+    --simple traverse count and get mida and find
+    -- use 2 pointers and 1 pointer to trevrse one node at at eime and second one skips and traverse twice.
